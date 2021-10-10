@@ -5,4 +5,4 @@
 
 #### Moreover such a model tested for Liveness, Fairness and Security rules 
 
->See more data about task and model in [PDF - file](https://github.com/MaximGilman/Promela-traffic-verification/Gilman.pdf)
+>See more data about task and model in [PDF - file](https://github.com/MaximGilman/Promela-traffic-verification/blob/main/Gilman.pdf)
